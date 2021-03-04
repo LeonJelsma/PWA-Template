@@ -1,4 +1,4 @@
-<h1>PWA Templateg</h1>
+<h1>PWA Template</h1>
 
 <h2>Usage</h2>
 
